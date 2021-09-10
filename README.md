@@ -1,7 +1,9 @@
-- 👋 Hi, I’m Nirpendra Chaudhary
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning ReactJS and NodeJS
-- 💞️ I’m looking for an internship
+### Hello, I'm Nirpendra Chaudhary! 👋 
+
+- 👋 Hi, I’m cureently working on a book store App
+- 👀 I’m interested in web and hybrid development
+- 🌱 I’m currently learning NodeJS
+- 💞️ I’m looking for an awesome internship
 - 📫 Reach me @Linkedin https://www.linkedin.com/in/nirpendra-chaudhary-798b9b184/
 
 <!---
