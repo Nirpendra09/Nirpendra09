@@ -1,6 +1,6 @@
 ### Hello, I'm Nirpendra Chaudhary! 👋 
 
-- 👋 Hi, I’m cureently working on a book store App
+- 👋 Hi, I’m currently working on a book store App
 - 👀 I’m interested in web and hybrid development
 - 🌱 I’m currently learning NodeJS
 - 💞️ I’m looking for an awesome internship
