@@ -1,7 +1,7 @@
 ### Hello, I'm Nirpendra Chaudhary! 👋 
 
 - 👋 Hi, I’m currently working on a book store App
-- 👀 I’m interested in web and hybrid development
+- 👀 I’m interested in web and hybrid app development
 - 🌱 I’m currently learning NodeJS
 - 💞️ I’m looking for an awesome internship
 - 📫 Reach me @Linkedin https://www.linkedin.com/in/nirpendra-chaudhary-798b9b184/
