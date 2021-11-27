@@ -1,9 +1,9 @@
 ### Hello, I'm Nirpendra Chaudhary! 👋 
 
-- 👋 Hi, I’m currently working on a book store App
+- 👋 Hi,
 - 👀 I’m interested in web and hybrid app development
 - 🌱 I’m currently learning NodeJS
-- 💞️ I’m looking for an awesome internship
+- 💞️ I’m looking for an awesome internships
 - 📫 Reach me @Linkedin https://www.linkedin.com/in/nirpendra-chaudhary-798b9b184/
 
 <img src="https://github-readme-stats.vercel.app/api?username=nirpendra09&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
